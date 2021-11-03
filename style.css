@@ -215,7 +215,6 @@ h4 {
 }
 
 .highlight::after {
-  border: 1px solid red;
   display: block;
   content: '';
   position: absolute;
